@@ -1,4 +1,7 @@
 ## Hi there 👋
+👋 About me
+
+Hello, i am Kennedy Eziolise, a full stack developer with an interest speicializing in all things .NET, react and node.js.
 
 <!--
 **Kennedy1570/kennedy1570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
