@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 About me
 
-Hello, i am Kennedy Eziolise, a full stack developer with an interest speicializing in all things .NET, react and node.js.
+Hello, i am Kennedy Eziolise, Highly motivated Full Stack Developer with hands-on experience in React.js and Node.js. Passionate about building scalable, user-friendly web applications and eager to contribute technical skills in a collaborative development environment. Adept at problem-solving, writing clean code, and continuously learning modern technologies.
 
 <!--
 **Kennedy1570/kennedy1570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
