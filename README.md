@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 About me
 
-Hello, i am Kennedy Tobechukwu Eziolise, Highly motivated Full Stack Developer with hands-on experience in C#, and the .NET Framework. Passionate about building scalable, user-friendly web applications and eager to contribute technical skills in a collaborative development environment. Adept at problem-solving, writing clean code, and continuously learning modern technologies.
+M.S. Software Engineering student @ KSU | Backend & API developer with hands-on experience in Node.js, Java, C#, and .NET — building scalable, well-tested systems with clean architecture. Passionate about bridging business needs and technology. AZ-900 Certified | Open to backend engineering and implementation consulting roles.
 
 <!--
 **Kennedy1570/kennedy1570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
